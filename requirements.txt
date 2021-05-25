@@ -1,0 +1,11 @@
+wheel
+pandas
+joblib
+numpy
+geopy
+gpxpy
+scikit_learn
+xgboost
+plotly
+cufflinks
+sweetviz
